@@ -1,0 +1,8 @@
+NAME     = bakemono
+HDIR     = include
+SRCDIR   = src
+BUILDDIR = bin
+CCOPT    = -Wall -std=c++11
+LDOPT    = 
+LIBS     = sfml-system sfml-window sfml-graphics sfml-audio sfml-network
+

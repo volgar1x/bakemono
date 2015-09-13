@@ -1,0 +1,4 @@
+CC = clang++-3.6
+# CC = c++
+
+LIBDIR = 
